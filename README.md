@@ -13,9 +13,6 @@
 
 ![demo image](https://github.com/vtu26619-ux/Chatbot/blob/main/img.png)
 
-<b>Youtube Link of Demo:</b>
-
-https://youtu.be/Pwj_IyJ-woo
 
 <b>Repl link of chatbot:</b>
 
