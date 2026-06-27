@@ -14,10 +14,6 @@
 ![demo image](https://github.com/vtu26619-ux/Chatbot/blob/main/img.png)
 
 
-<b>Repl link of chatbot:</b>
-
-https://CavernousRealisticIntegrationtesting.karnatipavani.repl.co
-
 <b>Links for reference from Online:<b>
 
 https://www.w3schools.com/js/js_arithmetic.asp
