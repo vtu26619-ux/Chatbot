@@ -1,0 +1,38 @@
+{
+    "party_wear":{
+        "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
+        "images":"https://i.pinimg.com/originals/76/71/b2/7671b2fed772e2b4ce40bf20e8cb0168.jpg",
+        "demo for women":"https://www.youtube.com/embed/Oa-guccnzOA",
+        "demo for men":"https://www.youtube.com/embed/G6S7Zgvcw0U",
+        "shopping link for men":"https://www.myntra.com/party-wear-for-men",
+        "shopping link for women":"https://www.myntra.com/women-party-wear-dresses",
+        "website":"MYNTRA"
+    },
+    "casual_wear":{
+        "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
+        "images":"https://www.gentlemansgazette.com/wp-content/uploads/2016/05/Appropriate-business-casual-attire-for-young-men.jpg",
+        "demo for women":"https://www.youtube.com/embed/ejYgI36mN04",
+        "demo for men":"https://www.youtube.com/embed/-jGSNFt-6Ic",
+        "shopping link for men":"https://www.myntra.com/men-casual-wear",
+        "shopping link for women":"https://www.faballey.com/clothing/cat/occasion-casual-wear",
+        "website":"MYNTRA"
+    },
+    "summer_wear":{
+        "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
+        "images":"https://www.beyoung.in/blog/wp-content/uploads/2020/05/jump-2-min-853x1024.jpg",
+        "demo for women":"https://www.youtube.com/embed/dQWowDu0h6k",
+        "demo for men":"https://www.youtube.com/embed/VMcLbYiygWg",
+        "shopping link for men":"https://www.myntra.com/men-summer-wear",
+        "shopping link for women":"https://www.myntra.com/women-summer-wear",
+        "website":"MYNTRA"
+    },
+    "formal":{
+        "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
+        "images":"https://5.imimg.com/data5/UB/WW/MY-51946024/men-27s-formal-shirt-250x250.jpg",
+        "demo for women":"https://www.youtube.com/embed/4tc46amTK4Y",
+        "demo for men":"https://www.youtube.com/embed/uxK5dKDFCVc",
+        "shopping link for men":"https://www.myntra.com/formal-wear-for-men",
+        "shopping link for women":"https://www.myntra.com/formal-wear-for-women",
+        "website":"MYNTRA"
+    }
+}
