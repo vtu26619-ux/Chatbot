@@ -11,7 +11,7 @@
 
 <b>Block diagram of this project:</b>
 
-![demo image]([https://raw.githubusercontent.com/19PA1A0569/ML-project-2/main/2020-10-18%20(2).png)])(https://github.com/vtu26619-ux/Chatbot/blob/main/img.png)
+![demo image](https://github.com/vtu26619-ux/Chatbot/blob/main/img.png)
 
 <b>Youtube Link of Demo:</b>
 
